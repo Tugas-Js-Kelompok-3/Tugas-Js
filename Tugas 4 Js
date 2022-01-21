@@ -1,24 +1,15 @@
-1. buat function untuk menentukan ekspresi yang diberikan benar atau tidak
-ekspresi akan berupa string kurung buka atau kurung tutup misalnya ({[[()]]})
-fungsi Anda harus menentukan ekspresi apakah itu benar atau tidak
-examples:
-soal("({[]})") => true
-soal("([][]{})")=> true
-soal("({)(]){[}") => false
-soal("[)()]") => false
-
-2. buat function yang menerima parameter tunggal. parameternya akan menjadi array of integer
+1. buat function yang menerima parameter tunggal. parameternya akan menjadi array of integer
 fungsi Anda harus dapat menghitung nilai unik di dalam array
 examples:
 countUniqueValues([1, 2, 3, 4, 4, 4, 7, 7, 12, 12, 13])) => 7
 countUniqueValues([1, 2, 2, 2, 2, 2, 2, 2, 4, 6])) => 4
 countUniqueValues([])) => 0
 
-3. Buat function yang dapat menyambungkan array
+2. Buat function yang dapat menyambungkan array
 examples :
 nama(["Lucky", "Fauzi"]) => "Lucky Fauzi"
 
-4. Buat function yang menyatakan angka ini lebih kurang dari nol
+3. Buat function yang menyatakan angka ini lebih kurang dari nol
 examples: 
 KurangDariNol(5) ==> false
 kurangDariNol(0) ==> True
