@@ -1,6 +1,6 @@
 Buat function yang menjumlahkan persegi, didalamnya terdapat perkalian pembagian pertambahan dan pengurangan
 
-Buat function yang memisahkan string ini "Lucky" menjadi ['L', 'u', 'c', 'k', 'y']
+Buat function untuk pemisah string, example: "Lucky" => ["L","u","c","k","y"]
 
 Buat function yang didalamnya terdapat umur sudah dewasa atau blum, example:
 adultOrNo(17) => "Adult"
