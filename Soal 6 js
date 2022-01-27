@@ -1,0 +1,11 @@
+Buat function yang menjumlahkan persegi, didalamnya terdapat perkalian pembagian penjumlahan dan pengurangan
+
+Buat function yang memisahkan string ini "Lucky" menjadi ['L', 'u', 'c', 'k', 'y']
+
+Buat function yang didalamnya terdapat umur sudah dewasa atau blum, example:
+adultOrNo(17) => "Adult"
+adultOrNo(14) => "Not adult yet"
+
+Buat class bebas tentang identitas kalian
+
+Buat class yang dalamnya terdapat kondisi menyapa
