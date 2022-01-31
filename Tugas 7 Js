@@ -1,0 +1,7 @@
+Buat function tentang lampu lalulintas, example: trafficLight("Red") => "Stop"
+                                                 trafficLight("Yellow") => "Be Carefull!"
+                                                 trafficLight("Green") => "Go!"
+
+Buat arrow function yang menjumlahkan 2 Persegi
+
+Jika sudah Wajib di push!
