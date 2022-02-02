@@ -1,0 +1,37 @@
+  1.Buat function tentang lampu lalulintas, example: trafficLight("Red") => "Stop"
+                                                     trafficLight("Yellow") => "Be Carefull!"
+                                                     trafficLight("Green") => "Go!"
+
+  2.Buat arrow function yang menjumlahkan 2 Persegi
+
+  3.['hallo','nama','saya',['lucky','fauzi', ['kelas',['11', ['rpl,'2']]]]] buat outputnya jadi array dan string, example => [ 'hallo', 'nama', 'saya' ] lucky fauzi kelas 11 rpl 2
+
+  4.const obj = {
+    nama: "lucky",
+    kelas: "RPL 2",
+    umur: 17,
+    nikah: false,
+    Hp: {
+      nama: "Xiaomi Redmi note 9 pro",
+      spesifikasiHp: {
+          chipset: "Snapdragon 720G",
+          ram: "6 GB",
+          rom: "128 GB",
+          camera: "64mp"
+          }
+      }
+    }
+  tampilkan obj Hp, example => {
+                                nama: 'Xiaomi Redmi note 9 pro',
+                                spesifikasiHp: {
+                                  chipset: 'Snapdragon 720G',
+                                  ram: '6 GB',
+                                  rom: '128 GB',
+                                  camera: '64mp'
+                                  }
+                              }
+                              
+kel 3 kerjakan no 3 dan 4
+kel 1 dan 2 kerjakan semuanya
+
+semangat kawan ;)
